@@ -1,6 +1,6 @@
 # portfolio-webpage-project
 
-A "Walter White" Portfolio Webpage Project for freeCodeCamp. Using HTML & CSS.
+A "Walter White" Portfolio Webpage Project for freeCodeCamp using HTML & CSS.
 
 You can check it out here:
 
